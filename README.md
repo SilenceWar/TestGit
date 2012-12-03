@@ -1,4 +1,0 @@
-TestGit
-=======
-
-Blot for testing :-)
